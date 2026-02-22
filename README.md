@@ -82,6 +82,7 @@ Pong'ish is a client-only TypeScript application using React + Canvas, organized
 - [Performance Targets](#performance-targets)
 - [Documentation](#documentation)
 - [v1 Scope and Non-Goals](#v1-scope-and-non-goals)
+- [License](#license)
 
 ## Core Features
 
@@ -233,3 +234,7 @@ Tracked in `docs/plans/05-performance-statefulness-plan.md`:
 - Cloud persistence
 - Mobile/touch-first controls
 - Replay playback
+
+## License
+
+MIT. See `LICENSE`.

@@ -10,3 +10,4 @@ Status: Completed
 3. Add current feature-state + recommendations document at `docs/features.md`. Completed.
 4. Verify references to planning and ADR documents are accurate. Completed.
 5. Refine README to follow best-practice structure and separate player-facing overview from technical project overview. Completed.
+6. Add MIT license and reference it in README. Completed.
