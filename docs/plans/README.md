@@ -25,6 +25,7 @@ This directory contains all planning and task materials for the web Pong project
 - `plans/08-dependency-injection-approach.md`
 - `plans/09-game-modes-catalog.md`
 - `plans/10-ui-treatments-catalog.md`
+- `plans/11-readme-documentation-task.md`
 - `plans/decision-log.md`
 - `plans/open-questions.md`
 - `plans/adr/README.md`
